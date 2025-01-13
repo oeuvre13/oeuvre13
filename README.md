@@ -13,9 +13,9 @@
 - Google Cloud
 
 ### Language
-- Indonesian
-- English
-- Japanese
+- Indonesian (pro)
+- English (ok)
+- Japanese (noob)
 
-### Interests
-- Vim
+### Main Editor
+- Neovim
